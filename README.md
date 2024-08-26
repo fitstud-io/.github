@@ -1,35 +1,30 @@
 <h1 align=center>FITSTUD.IO</h1>
-<p align=center>This is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme for FITSTUD.IO.</p>
-<h2 align="center"> <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbookworm-light-astro.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
-</h2>
-<p align=center>
-  <a href="https://github.com/withastro/astro/releases/tag/astro%404.3.2" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=ASTRO&message=4.3&color=000&logo=astro" />
-  </a>
-  <a href="https://github.com/themefisher/bookworm-light-astro/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/themefisher/bookworm-light-astro" alt="license"></a>
-  <img src="https://img.shields.io/github/languages/code-size/themefisher/bookworm-light-astro" alt="code size">
-  <a href="https://github.com/themefisher/bookworm-light-astro/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-astro" alt="contributors"></a>
+
+<h1 align="center">Hi , I'm Damien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!--  -->
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/YrC1JyIrnQvkH0XdGK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+## // A lil about Me
+
+- I'm a passionate Front-end developer by night
+- Also a personal trainer and fitness guru by day
+- 24/7 dad of two monsters that doen't deserve me 😂
+
+## // Now about FITSTUD.IO
+
+- A fitness blog built by a nerd for Gym Rats
+- Features articles on Fitness, Nutrition, and Mindset
+- 100% free for everyone so please donate to my coffee fund at [buymeacoffee.com](buymeacoffee.com)
+
+
+
+<p align="center">
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMTQuNTAwMDQ1Nzc2MzY3MiIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDIxNC41MDAwNDU3NzYzNjcyIDM1Ij48cmVjdCB3aWR0aD0iMTExLjAwMDAyMjg4ODE4MzYiIGhlaWdodD0iMzUiIGZpbGw9IiM3ZWQzMjEiLz48cmVjdCB4PSIxMTEuMDAwMDIyODg4MTgzNiIgd2lkdGg9IjEwMy41MDAwMjI4ODgxODM2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjNDE3NTA1Ii8+PHRleHQgeD0iNTUuNTAwMDExNDQ0MDkxOCIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+QVBST1ZFRCBCWTwvdGV4dD48dGV4dCB4PSIxNjIuNzUwMDM0MzMyMjc1NCIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPllPVVIgTU9NPC90ZXh0Pjwvc3ZnPg==)](https://forthebadge.com)
 </p>
-
-## 🔑Key Features
-
-- 🎨 Highly Customizable (Color, Font, Menu, Social Links, SEO Meta Tags, etc.)
-- 👥 Multi-Author Support
-- 📚 Authors Page
-- 👤 Author Single Page
-- 🔍 Search Functionality with FuseJS
-- 🏷️ Tags and Categories Support
-- 📲 Post Social Share Option
-- 🔗 Similar Post Suggestions
-- ⚡ Fast by Default (95+ Google PageSpeed Score)
-- ⚙️ Netlify Settings Pre-configured
-- 📬 Contact Form Support
-- 🌅 Support OG Image
-- ✍️ Write and Update Content in Markdown / MDX
-- 📚 MDX Components Auto Import
-- 📝 Includes Draft Pages and Posts
-- 🚀 Built with Tailwind CSS Framework
-- 📱 Fully Responsive on Desktops, Tablets, and Smartphones
-- 🔍 SEO Friendly
